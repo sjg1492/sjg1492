@@ -19,15 +19,16 @@
 
 <h3 align="left">Skills:</h3>
 <p align="left">
-  80%: Used as a primary work tool, capable of effectively performing advanced functions and projects.<br>
-50%: Experienced in using it for work and can be immediately utilized in ongoing projects.<br>
-30%: Capable of basic use and can perform simple tasks.<br>
+
   <strong>Java:</strong> 80%<br>
   <strong>Spring Boot:</strong> 80%<br>
   <strong>RDBMS [Mysql, Oracle, PostgreSQL]:</strong> 80%<br>
   <strong>NoSQL [Elasticsearch, Redis]:</strong> 30%<br>
   <strong>Infrastructure [AWS EC2, RDS]:</strong> 50%<br>
-  <strong>Collaboration Tools [Jira, Confluence, Notion, Slack]:</strong> 50%
+  <strong>Collaboration Tools [Jira, Confluence, Notion, Slack]:</strong> 50%<br><br>
+  80%: Used as a primary work tool, capable of effectively performing advanced functions and projects.<br>
+50%: Experienced in using it for work and can be immediately utilized in ongoing projects.<br>
+30%: Capable of basic use and can perform simple tasks.<br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
