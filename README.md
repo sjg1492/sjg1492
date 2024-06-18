@@ -19,6 +19,9 @@
 
 <h3 align="left">Skills:</h3>
 <p align="left">
+  80%: Used as a primary work tool, capable of effectively performing advanced functions and projects.<br>
+50%: Experienced in using it for work and can be immediately utilized in ongoing projects.<br>
+30%: Capable of basic use and can perform simple tasks.<br>
   <strong>Java:</strong> 80%<br>
   <strong>Spring Boot:</strong> 80%<br>
   <strong>RDBMS [Mysql, Oracle, PostgreSQL]:</strong> 80%<br>
