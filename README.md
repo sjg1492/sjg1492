@@ -30,10 +30,19 @@
   </a> 
 </p>
 
-<h3 align="left">Summary:</h3>
-<p align="left">
-  Experienced Backend Developer with a demonstrated history of working in the IT industry. Skilled in Java, Spring Boot, and various database technologies. Adept at managing large-scale systems and ensuring high availability and performance. Passionate about leveraging new technologies to drive business value and improve user experiences.
-</p>
+<h3 align="left">Timeline:</h3>
+<ul>
+  <li><strong>INAVI Systems (2023.01 - 2024.04):</strong>
+    <ul>
+      <li>Operated server for navigation and black box connected services based on Spring Boot</li>
+    </ul>
+  </li>
+  <li><strong>WISENUT(2019.04 - 2022.08):</strong>
+    <ul>
+      <li>Built search/chatbot web services as a Project Lead using Spring framework</li>
+    </ul>
+  </li>
+</ul>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
@@ -44,13 +53,3 @@
   <strong>Infrastructure [AWS EC2, RDS]:</strong> 50%<br>
   <strong>Collaboration Tools [Jira, Confluence, Notion, Slack]:</strong> 50%
 </p>
-
-<h3 align="left">Abilities:</h3>
-<ul>
-  <li><strong>Quick Adaptation:</strong> Enhanced background knowledge through pre-review and team questions, effectively reducing project analysis time.</li>
-  <li><strong>Collaboration Skills:</strong> Successfully completed projects through active communication and cooperation with team members.</li>
-  <li><strong>Data-Driven Decision Making:</strong> Improved customer satisfaction by analyzing data to understand customer needs and setting development directions accordingly.</li>
-  <li><strong>Large-Scale Data Processing:</strong> Optimized queries using indexing based on query execution plans, enhancing system responsiveness by 90%.</li>
-  <li><strong>Accurate Development and Deployment:</strong> Established stable system construction and deployment capabilities through 4 years and 8 months of backend development experience.</li>
-  <li><strong>Continuous Growth:</strong> Analyzed resource and investment efficiency based on a deep understanding of existing technologies to introduce new technologies.</li>
-</ul>
