@@ -36,11 +36,8 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
-  <a href="https://en.wikipedia.org/wiki/Java_Persistence_API" target="_blank" rel="noreferrer">
-    <img src="https://path-to-your-icons/jpa-icon.png" alt="jpa" width="40" height="40"/>
-</a>
   <a href="https://mybatis.org/" target="_blank" rel="noreferrer">
-    <img src="https://path-to-your-icons/mybatis-icon.png" alt="mybatis" width="40" height="40"/>
+    <img src="https://mybatis.org/images/mybatis-logo.png" alt="mybatis" width="40" height="40"/>
 </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
