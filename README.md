@@ -5,12 +5,12 @@
 
 <h3 align="left">Timeline:</h3>
 <ul>
-  <li><strong>INAVI Systems (2023.01 - 2024.04):</strong>
+  <li><strong>INAVI (2023.01 - 2024.04):</strong>
     <ul>
       <li>Operated server for navigation and black box connected services based on Spring Boot</li>
     </ul>
   </li>
-  <li><strong>WISENUT(2019.04 - 2022.08):</strong>
+  <li><strong>WISENUT (2019.04 - 2022.08):</strong>
     <ul>
       <li>Built search/chatbot web services as a Project Lead using Spring framework</li>
     </ul>
